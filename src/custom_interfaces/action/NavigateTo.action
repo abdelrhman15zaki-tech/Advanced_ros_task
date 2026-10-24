@@ -1,0 +1,6 @@
+float64 x
+float64 y
+---
+bool arrived
+---
+float64 distance_remainig
